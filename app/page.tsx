@@ -211,9 +211,9 @@ export default function Home() {
       <section className="hero">
         <div>
           <p className="eyebrow">QR Code Generator</p>
-          <h1>Vivid QR Studio</h1>
+          <h1>Tongjai Yampaka QR Studio</h1>
           <p className="intro">
-            สร้าง QR สำหรับ URL, ข้อความ, WiFi และ vCard พร้อมสีสดใส frame text และ export ได้ทันที
+            พวกเรามาสร้าง QR สำหรับ URL, ข้อความ, WiFi และ vCard พร้อมสีสดใส frame text และ export ได้ทันที
           </p>
         </div>
         <div className="hero-burst" aria-hidden="true" />
