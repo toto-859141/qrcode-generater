@@ -212,6 +212,7 @@ export default function Home() {
         <div>
           <p className="eyebrow">QR Code Generator</p>
           <h2>Tongjai Yampaka QR Studio</h2>
+          <h2>QR Studio</h2>
           <p className="intro">
             พวกเรามาสร้าง QR สำหรับ URL, ข้อความ, WiFi และ vCard พร้อมสีสดใส frame text และ export ได้ทันที
           </p>
